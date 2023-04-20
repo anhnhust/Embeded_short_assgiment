@@ -21,4 +21,5 @@ Báo cáo gồm mã nguồn trên github và ảnh chụp screenshot cho thấy 
         trace_puts("TAT QUAT GIO, LED XANH TAT!");
       }
  #Kết Quả
- ![Result](https://github.com/anhnhust/Embeded_short_assgiment/blob/main/src/result_embeded.JPG)
+![result_embeded](https://user-images.githubusercontent.com/92510780/233332169-6c460bc7-600a-4692-96cc-cbc51e8880f0.JPG)
+
